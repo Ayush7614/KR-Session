@@ -1,2 +1,2 @@
 # KR-Session
-Todays seesion is on Git &amp; Github
+Today's session is on Git &amp; Github
